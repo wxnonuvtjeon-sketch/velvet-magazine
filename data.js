@@ -32,14 +32,14 @@ const siteData = {
       joined: "2017", initials: "JW", photo: "javier.jpg",
       bio: "Wujud nyata Golden Retriever Husband alias nurut sama Mbak Istri, Green Flag parah dan jadi Standar cewek-cewek VELVET buat nyari pacar atau calon suami.",
       education: "Universitas Indonesia - Communication Studies (2014-2018).", 
-      skills: ["Editorial Management", "Copy Editing", "Project Coordination", "Nggak ada kata sibuk buat Mbak Istri alias tau prioritas dan jago manajemen waktu.]
+      skills: ["Editorial Management", "Copy Editing", "Project Coordination", "Nggak ada kata sibuk buat Mbak Istri alias tau prioritas dan jago manajemen waktu."]
     },
     {
       name: "Kiara Anindita", role: "Art Director & Fashion Stylist", department: "Creative & Art",
       joined: "2018", initials: "KA", photo: "kiara.jpg",
       bio: "#TROPHYWIFE alias duduk manis duit ngalir dari Mas Suami. Bekerja hanya untuk bersenang-senang.",
       education: "Universitas Airlangga - International Relationship (2014-2018).", 
-      skills: ["Art Direction", "Visual Identity", "Graphic Design", "Jago masakan apa aja, kerja bareng Kiara nggak bakal kelaperan!]
+      skills: ["Art Direction", "Visual Identity", "Graphic Design", "Jago masakan apa aja, kerja bareng Kiara nggak bakal kelaperan!"]
     },
     {
       name: "Ghea Paramitha", role: "Beauty Editor", department: "Editorial",
@@ -51,9 +51,9 @@ const siteData = {
     {
       name: "Farel Nugraha", role: "Videographer", department: "Photo & Videography",
       joined: "2023", initials: "FN", photo: "farel.jpg",
-      bio: "Ikon cowok BINGUNG. Keliatan deket sama si A-B-C tapi nggak pernah ada status, tiap di tanya "Itu pacar lo?" "Nggak pacaran kok, kita berkomitemn aja" alias PRET",
+      bio: 'Ikon cowok BINGUNG. Keliatan deket sama si A-B-C tapi nggak pernah ada status, tiap di tanya "Itu pacar lo?" "Nggak pacaran kok, kita berkomitemn aja" alias PRET',
       education: "Institut Teknologi Sepuluh Nopember - Mechanical Engineering (2019-2024)", 
-      skills: ["Video Editing", "Visual Curation", "Production" "POKOKNYA BINGUNG UDAH"]
+      skills: ["Video Editing", "Visual Curation", "Production", "POKOKNYA BINGUNG UDAH"]
     },
     {
       name: "Tania Putri", role: "Social Media & PR Specialist", department: "Marketing, Socmed & PR",
