@@ -15,9 +15,10 @@ const siteData = {
   departments: [
     { name: "Editorial", description: "Research, writing, interviews, editing, and editorial planning." },
     { name: "Photo & Videography", description: "Photo production, Video production, visual storytelling, image selection, and post-production." },
-    { name: "Creative & Art", description: "Visual identity, graphic design, layouts, art direction, Fashion features, styling, runway coverage, and creative concepts." },
+    { name: "Creative & Art", description: "Visual identity, graphic design, layouts, art direction." },
+    { name: "Fashion Stylist", description: "Fashion features, styling, runway coverage, and creative concepts." },
     { name: "Management", description: "Company leadership, publication management, and daily operations." },
-    { name: "Marketing, Socmed & PR", description: "Brand partnerships, communications, campaigns, and audience engagement." }
+    { name: "Marketing", "Socmed & PR", description: "Brand partnerships, communications, campaigns, and audience engagement." }
   ],
   employees: [
     {
@@ -35,7 +36,7 @@ const siteData = {
       skills: ["Editorial Management", "Copy Editing", "Project Coordination", "Nggak ada kata sibuk buat Mbak Istri alias tau prioritas dan jago manajemen waktu."]
     },
     {
-      name: "Kiara Anindita", role: "Art Director & Fashion Stylist", department: "Creative & Art",
+      name: "Kiara Anindita", role: "Art Director & Fashion Stylist", department: "Creative & Art", "Fashion Stylist",
       joined: "2018", initials: "KA", photo: "kiara.jpg",
       bio: "#TROPHYWIFE alias duduk manis duit ngalir dari Mas Suami. Bekerja hanya untuk bersenang-senang.",
       education: "Universitas Airlangga - International Relationship (2014-2018).", 
