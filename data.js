@@ -46,7 +46,7 @@ const siteData = {
       joined: "2021", initials: "GP", photo: "ghea.jpg",
       bio: "Korban ke-brengsek-an laki-laki mokondo. Pacaran 5 tahun juga akhirnya batal nikah gara-gara cewek yang ngaku jadi istri sirih dari pacar Ghea. She depressed and Hooked up with her BOSS",
       education: "Universitas Padjajaran - Psychology  (2017-2021)", 
-      skills: ["Beauty Journalism", "Feature Writing", "Research", #STOPTHEWEDDING2 ]
+      skills: ["Beauty Journalism", "Feature Writing", "Research", "#STOPTHEWEDDING2" ]
     },
     {
       name: "Farel Nugraha", role: "Videographer", department: "Photo & Videography",
@@ -57,7 +57,7 @@ const siteData = {
     },
     {
       name: "Tania Putri", role: "Social Media & PR Specialist", department: "Marketing, Socmed & PR",
-      joined: "2023", initials: "TP", photo: "images/tania.jpg",
+      joined: "2023", initials: "TP", photo: "tania.jpg",
       bio: "Kalo Farel Ikon cowok bingung, maka Tania Duta Temen Tapi Mesra.",
       education: "Universitas Indonesia - Communication Studies (2019-2023).", 
       skills: ["Excellent Communication", "Trend Research", "Creative Copywriting", "HTS 3 Taun nggak jadian"]
