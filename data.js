@@ -72,7 +72,7 @@ const siteData = {
     {
       name: "Raka Adyatama", role: "Photographer", department: "Photo & Videography",
       joined: "2025", initials: "RA", photo: "raka.jpg",
-      bio: "Pemuda rebel yang sedang mencoba segala macam pekerjaan dan kehidupan di dunia. Haha Hihi sana sini, tapi kerjaan tetep oke dan nggak pernah gagal bikin orang-orang geleng-geleng kepala. Mas-mas jawa yang katanya bisa buat hidup Mbak Nadine manis semanis senyuman Mas Javier.",
+      bio: "Pemuda rebel yang sedang mencoba segala macam pekerjaan dan kehidupan di dunia. Haha Hihi sana sini, tapi kerjaan tetep oke dan nggak pernah gagal bikin orang-orang geleng-geleng kepala.",
       education: "ISI Yogyakarta — Visual Communication Design (2019–2024)",
       skills: ["Fashion Photography", "Editorial Photography", "Portraiture", "Lightroom", "Photoshop", "Menguasai hampir seluruh punchline Bumbble"]
     }
